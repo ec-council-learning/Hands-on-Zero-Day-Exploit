@@ -1,0 +1,16 @@
+
+Step 1
+------------------------------------------------------------------------------------------------
+Change directory by typing: cd /usr/games/ (if the folder 'games' doesn't exist in /usr/ directory then create it by typing: mkdir /usr/games)
+
+
+Step 2
+------------------------------------------------------------------------------------------------
+While in directory /usr/games/ , download the the pre-compiled binaries from OffSec by typing.:
+wget www.offensive-security.com/crossfire.tar.gz
+
+
+Step 3
+------------------------------------------------------------------------------------------------
+Extract the archive to the existing directory by typing:
+tar -zxf crossfire.tar.gz
